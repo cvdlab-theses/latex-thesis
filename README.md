@@ -10,7 +10,7 @@
 
 2. Go to the folder of this project
 
-3. Run `docker build -t textlive:full .`
+3. Run `docker build -t texlive:full .`
 
 ### Compile
 
