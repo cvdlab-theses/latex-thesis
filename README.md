@@ -14,4 +14,8 @@
 
 ### Compile
 
-1. Run `./latex.sh`
+1. Launch Docker terminal
+
+2. Go to the folder of this project
+
+3. Run `./latex.sh` (every time you want)
