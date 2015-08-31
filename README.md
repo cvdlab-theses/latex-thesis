@@ -1,5 +1,17 @@
-# thesis
+# latex-thesis
 
-### How to compile
+### Prerequisite
 
-    npm run latex
+1. Install Docker [https://www.docker.com/toolbox](https://www.docker.com/toolbox)
+
+### Install
+
+1. Launch Docker terminal
+
+2. Go to the folder of this project
+
+3. Run `docker build -t textlive:full .`
+
+### Compile
+
+1. Run `./latex.sh`
